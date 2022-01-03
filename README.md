@@ -1,5 +1,5 @@
 ## About the project
-This project aims to predict student success with Naive Bayes (NB) model. 
+This project aims to predict student success with Naive Bayes (NB) model.
 
 The NB model and evaluating metrics are implemented from scratch. Also, it compares the difference between different splitting strategies (hold-out and cross-validation). It focuses on the implementation of the classifier based on its algorithm. Feature preprocessing and performance improvement are not considered. 
 
@@ -9,7 +9,8 @@ It includes 650 instances (students info.), each of which has 29 features and 1 
 
 >Grade
 
-## How to run
-Locate the files under /dataset directory in the same directory of the main code. 
 
-Have fun :)
+## 
+🧑‍🎓 ➡️ 🅰️❓🅱️❓
+
+Have fun 😉
