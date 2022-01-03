@@ -1,3 +1,6 @@
+
+# Naïve Bayes classifier from scratch
+
 ## About the project
 This project aims to predict student success with Naive Bayes (NB) model.
 
